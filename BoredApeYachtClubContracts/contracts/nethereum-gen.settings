@@ -1,0 +1,7 @@
+{
+    "projectName":NethereumSmartContracts",
+    "namespace": "NethereumSmartContracts.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
